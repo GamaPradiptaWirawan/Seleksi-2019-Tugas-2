@@ -26,25 +26,25 @@
 
 ## Screenshots
 
-> **Table Structure**
+> **_Table Structure_**
 ![table structure](/screenshots/table_structure.jpg)
-> **hotelDatabase**
+> **_hotelDatabase_**
 ![hotelDatabase](/screenshots/hotelDatabase.jpg)
-> **hotel**
+> **_Hotel_**
 ![hotel](/screenshots/hotel.jpg)
-> **fasilitas hotel**
+> **_Fasilitas Hotel_**
 ![fasilitas_hotel](/screenshots/fasilitas_hotel.jpg)
-> **fasilitas internet**
+> **_Fasilitas Internet_**
 ![fasilitas_internet](/screenshots/fasilitas_internet.jpg)
-> **fasilitas kamar**
+> **_Fasilitas Kamar_**
 ![fasilitas_kamar](/screenshots/fasilitas_kamar.jpg)
-> **fasilitas olahraga**
+> **_Fasilitas Olahraga_**
 ![fasilitas_olahraga](/screenshots/fasilitas_olahraga.jpg)
-> **kamar**
+> **_Kamar_**
 ![kamar](/screenshots/kamar.jpg)
 
 ## Reference
 
 * [XAMPP](https://www.apachefriends.org/index.html)
 
-### **_Author : Gama Pradipta Wirawan / 13517049_**
+**Author : _Gama Pradipta Wirawan - 13517049_**
