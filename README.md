@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Data Storing **_PegiPegi_**
+  Data Storing **_ PegiPegi _**
   <br>
   <br>
 </h1>
@@ -19,3 +19,7 @@
 #### Reason For Using MySQL
 1. The data is more suitable to be modeled with a relational form
 2. More familiar with MySQL than other DBMS
+
+## Screenshots
+> hotelDatabase
+![hotelDatabase](/screenshots/'1. hotelDatabase.png')
