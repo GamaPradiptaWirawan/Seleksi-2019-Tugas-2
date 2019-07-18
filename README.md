@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Data Storing ** _PegiPegi_ **
+  Data Storing <b>PegiPegi</b>
   <br>
   <br>
 </h1>
@@ -26,19 +26,25 @@
 
 ## Screenshots
 
-> table_structure
+> **Table Structure**
 ![table structure](/screenshots/table_structure.jpg)
-> hotelDatabase
+> **hotelDatabase**
 ![hotelDatabase](/screenshots/hotelDatabase.jpg)
-> hotel
+> **hotel**
 ![hotel](/screenshots/hotel.jpg)
-> fasilitas_hotel
+> **fasilitas hotel**
 ![fasilitas_hotel](/screenshots/fasilitas_hotel.jpg)
-> fasilitas_internet
+> **fasilitas internet**
 ![fasilitas_internet](/screenshots/fasilitas_internet.jpg)
-> fasilitas_kamar
+> **fasilitas kamar**
 ![fasilitas_kamar](/screenshots/fasilitas_kamar.jpg)
-> fasilitas_olahraga
+> **fasilitas olahraga**
 ![fasilitas_olahraga](/screenshots/fasilitas_olahraga.jpg)
-> kamar
+> **kamar**
 ![kamar](/screenshots/kamar.jpg)
+
+## Reference
+
+* [XAMPP](https://www.apachefriends.org/index.html)
+
+### **_Author : Gama Pradipta Wirawan / 13517049_**
